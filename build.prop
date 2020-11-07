@@ -430,7 +430,7 @@ ro.bootimage.build.fingerprint=Redmi/phoenix/phoenix:10/QKQ1.190825.002/V11.0.9.
 ro.bootimage.build.fingerprint_real=Redmi/picasso/picasso:10/QKQ1.191222.002/20.8.13:user/release-keys/1597344970
 #
 # ADDITIONAL VENDOR BUILD PROPERTIES
-#
+# Edit by ZhuoFan to make Flyme work for K30 5G
 persist.sys.mcd_config_file=/system/etc/mcd_default.conf
 ro.vendor.qspm.enable=true
 persist.sys.meizu.region=cn
